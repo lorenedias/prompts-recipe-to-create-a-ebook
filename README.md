@@ -22,7 +22,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual participei na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as ferramentas de IA, utiliznado os prompts seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as ferramentas de IA, utilizando os prompts seguem abaixo.
 
 <a href="https://github.com/lorenedias/prompts-recipe-to-create-a-ebook/blob/67992b352a50dd32bbd6f31c8fdfe879a2519c0f/output/ebook_jedi-css.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
