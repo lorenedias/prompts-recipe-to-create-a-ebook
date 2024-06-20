@@ -24,7 +24,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as ferramentas de IA, utiliznado os prompts seguem abaixo.
 
-<a href="https://github.com/lorenedias/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/lorenedias/prompts-recipe-to-create-a-ebook/blob/67992b352a50dd32bbd6f31c8fdfe879a2519c0f/output/ebook_jedi-css.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
