@@ -66,3 +66,5 @@ Foram utilizados os prompts acima nas ferramentas sde I.A. para gerar o material
 ---
 
 [Lorene Dias](https://github.com/lorenedias)
+
+Elaborador para a entraga do desafio do Bootcamp de IA (https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook)
